@@ -6,7 +6,7 @@ print("hi my name is",name,"and my age is",age)
 print(f"hi my name is {name} and my age is {age}")
 
 #input input()
-#age = int(input("what is your age?"))
+age = int(input("what is your age?"))
 print("hello your age is ",age)
 
 #arithmetic operations
